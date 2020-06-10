@@ -1,2 +1,2 @@
 # introduction-to-neural-networks
-Neural networks
+I started with introduction to neural networks. Kindly check out my codes
